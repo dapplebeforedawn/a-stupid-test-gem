@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AStupidTestGem::VERSION
   spec.authors       = ["Mark Lorenz"]
   spec.email         = ["mlorenz@covermymeds.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{a stupid test that i'm going to delete}
+  spec.description   = %q{well, I guess the description is not really optional}
   spec.homepage      = ""
   spec.license       = "MIT"
 
